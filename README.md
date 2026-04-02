@@ -12,7 +12,7 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 | 👥 Equipe | [Clique aqui](#equipe) |
 | 📊 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
-| 🗂 Product Backlog| [Clique aqui](#backlog-do-produto) |
+| 🗂 Backlog do Produto| [Clique aqui](#backlog-do-produto) |
 | 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
 
 
@@ -57,7 +57,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-# 🗂 Product Backlog
+# 🗂 Backlog do Produto
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
