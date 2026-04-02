@@ -8,12 +8,12 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 # 📑 Índice
 | Seção | Link |
 |------|------|
-| 📊 Projeto | [Clique aqui](#objetivo-do-projeto) |
+| 📊 Projeto | [Clique aqui](#projeto) |
 | 👥 Equipe | [Clique aqui](#equipe) |
-| 📊 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
+| 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
-| 🗂 Backlog do Produto| [Clique aqui](#backlog-do-produto) |
-| 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
+| 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
+| 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) ||
 
 
 
