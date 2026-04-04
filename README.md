@@ -40,13 +40,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 
 # 🎯 Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
+Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
+* Centralizar dados de movimentação de cargas perigosas;
+* Integração de informações que permitam análise aprofundada;
+* Mapeamento de Origens-Destinos das cargas;
+* Filtros que especifiquem e enriqueçam a análise;
+* Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
 
 ## 🛠 Tecnologias Utilizadas
@@ -54,9 +53,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Python (Colab)
-* Mysql
-
+* Python (Visual Studio Code)
 
 
 # 🗂 Backlog do Produto
@@ -74,7 +71,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
 
 
 
