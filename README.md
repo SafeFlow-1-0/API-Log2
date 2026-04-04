@@ -2,7 +2,7 @@
 
 Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
-
+---
 
 # 📑 Índice
 | Seção | Link |
@@ -14,7 +14,7 @@ Entrega de uma interface interativa que reúne os principais dados sobre movimen
 | 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
 | 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) ||
 
-
+---
 
 # 📊 Projeto (API) 
 Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
@@ -24,7 +24,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 * Filtros que especifiquem e enriqueçam a análise;
 * Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
-
+---
 
 # 👥 Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -37,8 +37,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |  Team Member  | Davi Pais       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada)    
 |  Team Member  | Mariana Leal       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create)    
 
-
-
+---
 
 # 🎯 Objetivo do Projeto
 Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
@@ -48,7 +47,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 * Filtros que especifiquem e enriqueçam a análise;
 * Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
-
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -59,7 +58,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
-
+---
 
 # 🗂 Backlog do Produto
 
@@ -77,7 +76,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
-
+---
 
 # 📅 Registro das Sprints
 
