@@ -1,7 +1,7 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+ 
 - Qual problema resolve?
   - O MVP1 torna os dados sobre transporte de cargas perigosas visualizáveis, interativos e claros para serem analisados.
 - Qual hipótese será validada?  
