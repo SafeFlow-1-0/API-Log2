@@ -7,12 +7,12 @@ Entrega de uma interface interativa que reúne os principais dados sobre movimen
 # 📑 Índice
 | Seção | Link |
 |------|------|
-| 📊 Projeto | [Clique aqui](Projeto (API)) |
-| 👥 Equipe | [Clique aqui](Equipe) |
-| 🎯 Objetivo do Projeto | [Clique aqui](Objetivo-do-Projeto) |
-| 🛠 Tecnologias Utilizadas | [Clique aqui](Tecnologias-Utilizadas) |
-| 🗂 Backlog do Produto | [Clique aqui](Backlog-do-Produto) |
-| 📅 Registro das Sprints | [Clique aqui](Registro-das-Sprints) ||
+| 📊 Projeto | [Clique aqui](#Projeto (API)) |
+| 👥 Equipe | [Clique aqui](#Equipe) |
+| 🎯 Objetivo do Projeto | [Clique aqui](#Objetivo-do-Projeto) |
+| 🛠 Tecnologias Utilizadas | [Clique aqui](#Tecnologias-Utilizadas) |
+| 🗂 Backlog do Produto | [Clique aqui](#Backlog-do-Produto) |
+| 📅 Registro das Sprints | [Clique aqui](#Registro-das-Sprints) ||
 
 ---
 
