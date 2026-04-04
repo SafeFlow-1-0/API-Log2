@@ -7,7 +7,7 @@ Entrega de uma interface interativa que reúne os principais dados sobre movimen
 # 📑 Índice
 | Seção | Link |
 |------|------|
-| 📊 Projeto | [Clique aqui](#projeto) |
+| 📊 Projeto | [Clique aqui](#Projeto (API) ) |
 | 👥 Equipe | [Clique aqui](#equipe) |
 | 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
