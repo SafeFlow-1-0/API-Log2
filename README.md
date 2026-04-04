@@ -37,21 +37,6 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |  Team Member  | Mariana Leal       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create)    
 
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
-| 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
-| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões.                                               | 8          | 1      |
-| 4   | Média      | Como analista do IPEM, quero filtros funcionais básicos para visualizar navegar entre dados mais relevantes.                                                                                                                                                     | 13        | 1    |
-| 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
-| 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
-| 6    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
-
 
 
 # 🎯 Objetivo do Projeto
@@ -78,10 +63,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
+| 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
+| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões.                                               | 8          | 1      |
+| 4   | Média      | Como analista do IPEM, quero filtros funcionais básicos para visualizar navegar entre dados mais relevantes.                                                                                                                                                     | 13        | 1    |
+| 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
+| 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
+| 6    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
 
