@@ -2,9 +2,11 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
+- Qual problema resolve?
+  - O MVP1 torna os dados sobre transporte de cargas perigosas visualizáveis, interativos e claros para serem analisados.
 - Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual valor será entregue ao usuário final?
+  - Um produto: o dashboard visual e interativo em PowerBi capaz de organizar as principais informações dos fluxos de cargas perigosas. 
 
 ---
 
