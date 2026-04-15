@@ -1,4 +1,4 @@
-<img width="563" height="826" alt="image" src="https://github.com/user-attachments/assets/140ad39f-fddb-4508-a7ad-20d89bcd07df" /># 📌 SafeFlow
+# 📌 SafeFlow
 
 Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
