@@ -1,4 +1,4 @@
-# 📌 SafeFlow
+<img width="563" height="826" alt="image" src="https://github.com/user-attachments/assets/140ad39f-fddb-4508-a7ad-20d89bcd07df" /># 📌 SafeFlow
 
 Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
@@ -74,7 +74,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | 4   | Média      | Como analista do IPEM, quero filtros funcionais básicos para visualizar navegar entre dados mais relevantes.                                                                                                                                                     | 13        | 1    |
 | 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
 | 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
-| 6    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 6    | Média      | Quais as principais cargar movimentadas?                                                                                                                                                     | ...        | ...    |
 | 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
