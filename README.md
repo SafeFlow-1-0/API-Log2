@@ -68,19 +68,20 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  1    | Alta       | Quais as principais cargas movimentadas?             | 8      | 1    |
-|  2    |    Media   | Quais ao tipo de cargas mais transportadas?          | 13     | 1    |
+|  1    | Alta       | Quais as principais cargas movimentadas?             | 7      | 1    |
+|  2    |    Media   | Quais as tipo de cargas mais transportadas?          | 5     | 1    |
 |  3    |    Media   | Quais cargas tem o maior grau de risco ?             | 8      | 1    |
-|  4    | Alta       | Quais os principais modais utilizados?               | 13     | 1    |
-|  5    |    Baixa   | Quais modelos de caminhões mais utilizados?          | 8      | 1    |
-|  6    |    Baixa   | Quais os principais meios de transportes utilizados? | ...        | ...    |
-|  7    | Alta       | Quais os principais origens e destinos?              | ...        | ...    |
-|  8    |    Media   | Quais as principais rodovias utilizadas?             | ...        | ...    |
-|  9    |    Baixa        | Quais cidades mais recebem cargas?              | ...        | ...    |
-|  10   |     BAixa       | Quais cidades fazem o transporte de carga?       | ---    | ---   |
-|  11   | Alta       | Como foi a evolução da movimentação ao longo do tempo?     | 2          | 3      |
-|  12   |     Alta   | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?  | ---  | ---  |
-|  13   |     Alta      | Dentre todas as empresas quais fazem o transporte mais seguro?   | ---  | --- |
+|  4    | Alta       | Quais os principais modais utilizados?               | 8     | 1    |
+|  5    |    Baixa   | Quais modelos de caminhões mais utilizados?          | 4      | 1    |
+|  6    |    Baixa   | Quais os principais meios de transportes utilizados? | 5        | ...    |
+|  7    | Alta       | Quais os principais origens e destinos?              | 7        | ...    |
+|  8    |    Media   | Quais as principais rodovias utilizadas?             | 8        | ...    |
+|  9    |    Baixa        | Quais cidades mais recebem cargas?              | 4        | ...    |
+|  10   |     BAixa       | Quais cidades fazem o transporte de carga?       | 4    | ---   |
+|  11   | Alta       | Como foi a evolução da movimentação ao longo do tempo?     | 8          | 3      |
+|  12   |     Alta   | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?  | 6  | ---  |
+|  13   |    Media   | Qual empresa é responsavel pelo transporte no Vale do Paraiba  |  7   |  ---   |
+|  14   |     Alta      | Dentre todas as empresas quais fazem o transporte mais seguro?   | 8  | --- |
 
 
 
