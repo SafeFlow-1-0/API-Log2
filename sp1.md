@@ -3,10 +3,11 @@
 ## 🎯 Objetivo do MVP
  
 - Qual problema resolve?
-  - O MVP1 torna os dados sobre transporte de cargas perigosas visualizáveis, interativos e claros para serem analisados.
-- Qual hipótese será validada?  
+  - O MVP1 tem como objetivo tornar os dados referentes ao transporte de cargas perigosas mais acessíveis, por meio de visualizações interativas e claras, facilitando sua análise e interpretação.
+- Qual hipótese será validada?
+  - A organização e visualização dos dados do IBAMA em um dashboard interativo possibilitam identificar padrões de movimentação, principais modais e rotas, contribuindo para análises logísticas mais eficientes.
 - Qual valor será entregue ao usuário final?
-  - Um produto: o dashboard visual e interativo em PowerBi capaz de organizar as principais informações dos fluxos de cargas perigosas. 
+  - Disponibilização de um dashboard interativo em Power BI que possibilita a visualização e análise de indicadores logísticos, como modais, origens, destinos e evolução temporal das cargas perigosas.
 
 ---
 
