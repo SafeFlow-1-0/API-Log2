@@ -44,15 +44,6 @@
 
 ## 🔑 User Stories (Backlog do MVP)
 
-| ID  | User Story | Prioridade | Estimativa |
-|-----|------------|------------|------------|
-| US1 | Como analista do IPEM, quero uma interface interativa com os principais dados de rotas de cargas perigosas para analisá-los e apoiar a elaboração de planejamentos logísticos. | Alta | 8 pontos |
-| US2 | Como fiscal do IPEM, quero uma interface que identifique as principais origens e destinos das cargas para visualizar áreas de maior risco. | Média | 13 pontos |
-
----
-
-## 🚀 Sprint 1
-
 | Rank | Prioridade | Pergunta | User Story | Estimativa |
 |------|------------|----------|------------|------------|
 | 1 | Alta | Quais as principais cargas movimentadas? | Como analista, quero identificar as principais cargas movimentadas para apoiar decisões logísticas | 7 |
@@ -60,6 +51,8 @@
 | 3 | Média | Quais cargas têm o maior grau de risco? | Como analista, quero identificar cargas com maior grau de risco para melhorar a segurança no transporte | 8 |
 | 7 | Alta | Quais são as principais origens e destinos? | Como analista, quero visualizar as principais origens e destinos para análise de fluxo | 7 |
 | 9 | Baixa | Quais cidades mais recebem cargas? | Como analista, quero identificar as cidades que mais recebem cargas para análise de distribuição | 4 |
+---
+
 
 ---
 
