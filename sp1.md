@@ -53,6 +53,18 @@
 | 9 | Baixa | Quais cidades mais recebem cargas? | Como analista, quero identificar as cidades que mais recebem cargas para análise de distribuição | 4 |
 ---
 
+## 📅 Sprint(s) Relacionadas
+
+| Sprint | Entregas Principais | Status |
+|--------|--------------------|--------|
+| 01 | Coleta e unificação dos dados do IBAMA | Concluído |
+| 01 | Limpeza e tratamento dos dados em Python | Concluído |
+| 01 | Estruturação da base de dados | Concluído |
+| 01 | Desenvolvimento do dashboard inicial (visão geral) | Concluído |
+| 01 | Implementação de gráficos principais (cargas, origem-destino e distribuição) | Concluído |
+| 01 | Identificação das principais cargas movimentadas | Concluído |
+| 01 | Organização das principais origens e destinos (OD) | Concluído |
+| 01 | Identificação das cidades com maior recebimento de cargas | Concluído |
 
 ---
 
