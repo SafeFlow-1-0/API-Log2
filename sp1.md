@@ -22,14 +22,17 @@
 
 ---
 
-## 👥 Personas / Usuários-Alvo
+#<p align="justify">
+<strong>Jean Costa:</strong> Professor e orientador acadêmico do projeto, responsável por acompanhar e avaliar o desenvolvimento da plataforma de Business Intelligence voltada ao fluxo de cargas especiais e perigosas. Atua na validação metodológica, garantindo que o projeto esteja alinhado às práticas ágeis, à qualidade da documentação e à aplicação correta dos conceitos logísticos e de análise de dados.
+</p>
 
 <p align="justify">
-* Carlos Bastos/José Jaétis: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+<strong>Marcus Nascimento:</strong> Professor e representante do cliente institucional IPEM (Instituto de Pesos e Medidas), atuando como principal elo entre a demanda real e o desenvolvimento do projeto. Responsável por orientar os requisitos práticos, validar os dados e avaliar a aplicabilidade da solução no contexto da fiscalização e análise do fluxo de cargas perigosas. Necessidades e tarefas atendidas: acesso a dados organizados, consolidados e visualmente claros, permitindo apoiar decisões estratégicas, operacionais e de fiscalização, reduzindo o esforço manual de análise.
+</p>
 
- <p align="justify">
-* Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
----
+<p align="justify">
+<strong>IPEM (Instituto de Pesos e Medidas):</strong> Órgão público cliente institucional do projeto, responsável pela fiscalização, controle e análise de dados relacionados à movimentação de cargas perigosas. Atua como principal beneficiário da solução desenvolvida, utilizando a plataforma para apoiar decisões estratégicas, otimizar processos de fiscalização e melhorar a gestão de informações logísticas em nível regional e estadual.
+</p>
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
