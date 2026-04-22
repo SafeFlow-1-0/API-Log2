@@ -33,7 +33,7 @@
 </p>
 
 <p align="justify">
-<strong>Marcus Nascimento:</strong> Professor e representante do cliente institucional IPEM (Instituto de Pesos e Medidas), atuando como principal elo entre a demanda real e o desenvolvimento do projeto. Responsável por orientar os requisitos práticos, validar os dados e avaliar a aplicabilidade da solução no contexto da fiscalização e análise do fluxo de cargas perigosas.
+<strong>Marcus Nascimento:</strong> Cliente do projeto, atuando como principal elo entre a necessidade real e o desenvolvimento da solução. Responsável por validar os dados, orientar os requisitos práticos e garantir que a plataforma atenda às demandas de análise e fiscalização do fluxo de cargas perigosas.
 </p>
 
 <p align="justify">
