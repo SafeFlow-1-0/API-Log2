@@ -26,7 +26,7 @@
 
 ---
 
-## 👥 Stakeholders
+## 👥 Personas / Usuários-Alvo
 
 <p align="justify">
 <strong>Jean Costa:</strong> Professor e orientador acadêmico do projeto, responsável por acompanhar e avaliar o desenvolvimento da plataforma de Business Intelligence voltada ao fluxo de cargas especiais e perigosas. Atua na validação metodológica, garantindo que o projeto esteja alinhado às práticas ágeis, à qualidade da documentação e à aplicação correta dos conceitos logísticos e de análise de dados.
