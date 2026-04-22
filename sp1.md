@@ -51,14 +51,15 @@
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 🚀 Sprint 1
 
-| Sprint | Entregas Principais | Status |
-|--------|--------------------|--------|
-| 01 | Unificação e tratamento dos dados | Em andamento |
-| 01 | Construção do dashboard inicial | Em andamento |
-| 01 | Desenvolvimento em Python | Em andamento |
-| 01 | Desenvolvimento em Power BI | Em andamento |
+| Rank | Prioridade | Pergunta | User Story | Estimativa |
+|------|------------|----------|------------|------------|
+| 1 | Alta | Quais as principais cargas movimentadas? | Como analista, quero identificar as principais cargas movimentadas para apoiar decisões logísticas | 7 |
+| 2 | Média | Quais os tipos de cargas mais transportadas? | Como analista, quero analisar os tipos de cargas mais transportadas para entender padrões operacionais | 5 |
+| 3 | Média | Quais cargas têm o maior grau de risco? | Como analista, quero identificar cargas com maior grau de risco para melhorar a segurança no transporte | 8 |
+| 7 | Alta | Quais são as principais origens e destinos? | Como analista, quero visualizar as principais origens e destinos para análise de fluxo | 7 |
+| 9 | Baixa | Quais cidades mais recebem cargas? | Como analista, quero identificar as cidades que mais recebem cargas para análise de distribuição | 4 |
 
 ---
 
