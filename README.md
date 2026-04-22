@@ -78,17 +78,17 @@ O objetivo é desenvolver um painel interativo que permita:
 | 1 | Alta | Quais as principais cargas movimentadas? | Como analista, quero identificar as principais cargas movimentadas para apoiar decisões logísticas | 7 | 1 |
 | 2 | Média | Quais os tipos de cargas mais transportadas? | Como analista, quero analisar os tipos de cargas mais transportadas para entender padrões operacionais | 5 | 1 |
 | 3 | Média | Quais cargas têm o maior grau de risco? | Como analista, quero identificar cargas com maior grau de risco para melhorar a segurança no transporte | 8 | 1 |
-| 4 | Alta | Quais os principais modais utilizados? | Como analista, quero visualizar os principais modais utilizados para otimizar a análise logística | 8 | 1 |
-| 5 | Baixa | Quais modelos de caminhões mais utilizados? | Como analista, quero identificar modelos de caminhões mais utilizados para entender a operação | 4 | 1 |
-| 6 | Baixa | Quais os principais meios de transporte utilizados? | Como analista, quero analisar os principais meios de transporte utilizados para melhor compreensão logística | 5 | --- |
-| 7 | Alta | Quais são as principais origens e destinos? | Como analista, quero visualizar as principais origens e destinos para análise de fluxo | 7 | --- |
-| 8 | Média | Quais as principais rodovias utilizadas? | Como analista, quero identificar as principais rodovias utilizadas para avaliar rotas logísticas | 8 | --- |
-| 9 | Baixa | Quais cidades mais recebem cargas? | Como analista, quero identificar as cidades que mais recebem cargas para análise de distribuição | 4 | --- |
-| 10 | Baixa | Quais cidades fazem o transporte de carga? | Como analista, quero identificar as cidades que realizam o transporte de cargas para entender a origem logística | 4 | --- |
+| 4 | Alta | Quais os principais modais utilizados? | Como analista, quero visualizar os principais modais utilizados para otimizar a análise logística | 8 | 2 |
+| 5 | Baixa | Quais modelos de caminhões mais utilizados? | Como analista, quero identificar modelos de caminhões mais utilizados para entender a operação | 4 | 2 |
+| 6 | Baixa | Quais os principais meios de transporte utilizados? | Como analista, quero analisar os principais meios de transporte utilizados para melhor compreensão logística | 5 | 2 |
+| 7 | Alta | Quais são as principais origens e destinos? | Como analista, quero visualizar as principais origens e destinos para análise de fluxo | 7 | 1 |
+| 8 | Média | Quais as principais rodovias utilizadas? | Como analista, quero identificar as principais rodovias utilizadas para avaliar rotas logísticas | 8 | 2 |
+| 9 | Baixa | Quais cidades mais recebem cargas? | Como analista, quero identificar as cidades que mais recebem cargas para análise de distribuição | 4 | 1 |
+| 10 | Baixa | Quais cidades fazem o transporte de carga? | Como analista, quero identificar as cidades que realizam o transporte de cargas para entender a origem logística | 4 | 2 |
 | 11 | Alta | Como foi a evolução da movimentação ao longo do tempo? | Como analista, quero analisar a evolução da movimentação ao longo do tempo para identificar tendências | 8 | 3 |
-| 12 | Alta | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada? | Como analista, quero identificar as principais empresas movimentadoras de cargas perigosas para análise de mercado | 6 | --- |
-| 13 | Média | Qual empresa é responsável pelo transporte no Vale do Paraíba? | Como analista, quero identificar a empresa responsável pelo transporte no Vale do Paraíba para análise regional | 7 | --- |
-| 14 | Alta | Dentre todas as empresas, quais fazem o transporte mais seguro? | Como analista, quero avaliar quais empresas realizam o transporte mais seguro para apoiar decisões estratégicas | 8 | --- |
+| 12 | Alta | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada? | Como analista, quero identificar as principais empresas movimentadoras de cargas perigosas para análise de mercado | 6 | 3 |
+| 13 | Média | Qual empresa é responsável pelo transporte no Vale do Paraíba? | Como analista, quero identificar a empresa responsável pelo transporte no Vale do Paraíba para análise regional | 7 | 3 |
+| 14 | Alta | Dentre todas as empresas, quais fazem o transporte mais seguro? | Como analista, quero avaliar quais empresas realizam o transporte mais seguro para apoiar decisões estratégicas | 8 | 3 |
 
 <a name="sprints"></a>
 # 📅 Registro das Sprints
