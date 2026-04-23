@@ -101,5 +101,5 @@
 
 - Prints do dashboard  
 - Fluxos ou protótipos  
-- from pathlib import Path
+- - 📄 Script de tratamento de dados: [`tratamento_dados.py`](./tratamento_dados.py)
 
