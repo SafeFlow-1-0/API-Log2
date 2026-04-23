@@ -21,9 +21,12 @@ def converter_numero_brasileiro(serie: pd.Series) -> pd.Series:
 
 
 def main():
+
+    
     # =========================
     # DEFINIR PASTAS DO PROJETO
     # =========================
+    
     pasta_projeto = Path(__file__).resolve().parent
     pasta_dados_brutos = pasta_projeto / "dados_brutos"
     pasta_dados_tratados = pasta_projeto / "dados_tratados"
@@ -34,6 +37,9 @@ def main():
     print("Pasta de dados brutos:", pasta_dados_brutos)
     print("Pasta de dados tratados:", pasta_dados_tratados)
 
+
+
+    
     # =========================
     # LER ARQUIVOS BRUTOS
     # =========================
@@ -59,6 +65,9 @@ def main():
         sep=";"
     )
 
+
+
+    
     # =========================
     # TRATAMENTO TRANSPORTE
     # =========================
@@ -80,6 +89,9 @@ def main():
     df_transporte["ROTA"] = df_transporte["UF - origem"] + " → " + df_transporte["UF - destino"]
     df_transporte["TIPO_BASE"] = "TRANSPORTE"
 
+
+
+    
     # =========================
     # TRATAMENTO GERADOR
     # =========================
@@ -99,6 +111,9 @@ def main():
     df_gerador = df_gerador.dropna(subset=["Estado", "Município", "Quantidade Gerada"])
     df_gerador["TIPO_BASE"] = "GERADOR"
 
+
+
+    
     # =========================
     # TRATAMENTO DESTINADOR
     # =========================
@@ -121,6 +136,9 @@ def main():
     df_destinador = df_destinador.dropna(subset=["Quant. destinada"])
     df_destinador["TIPO_BASE"] = "DESTINADOR"
 
+
+
+    
     # =========================
     # TRATAMENTO TRANSPORTADOR
     # =========================
@@ -135,6 +153,9 @@ def main():
     df_transportador = df_transportador[df_transportador["Situação Cadastral"] == "ATIVA"]
     df_transportador["TIPO_BASE"] = "TRANSPORTADOR"
 
+
+
+    
     # =========================
     # SALVAR BASES TRATADAS
     # =========================
@@ -145,6 +166,9 @@ def main():
     df_destinador.to_csv(pasta_dados_tratados / "destinador_tratado.csv", index=False, sep=";")
     df_transportador.to_csv(pasta_dados_tratados / "transportador_tratado.csv", index=False, sep=";")
 
+
+
+    
     # =========================
     # PADRONIZAR PARA BASE ÚNICA
     # =========================
@@ -234,6 +258,9 @@ def main():
         "SITUACAO_CADASTRAL": df_transportador["Situação Cadastral"]
     })
 
+
+
+    
     # =========================
     # UNIFICAR
     # =========================
@@ -246,6 +273,9 @@ def main():
     colunas_texto = base_unificada.select_dtypes(include=["object", "string"]).columns
     base_unificada[colunas_texto] = base_unificada[colunas_texto].fillna("NÃO INFORMADO")
 
+
+
+    
     # =========================
     # SALVAR BASE FINAL
     # =========================
@@ -257,6 +287,9 @@ def main():
         sep=";"
     )
 
+
+
+    
     # =========================
     # CONFERÊNCIA FINAL
     # =========================
