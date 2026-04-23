@@ -22,11 +22,11 @@ def converter_numero_brasileiro(serie: pd.Series) -> pd.Series:
 
 def main():
 
-    ---
     
     # =========================
     # DEFINIR PASTAS DO PROJETO
     # =========================
+    
     
     pasta_projeto = Path(__file__).resolve().parent
     pasta_dados_brutos = pasta_projeto / "dados_brutos"
@@ -39,11 +39,12 @@ def main():
     print("Pasta de dados tratados:", pasta_dados_tratados)
 
 
----
+
     
     # =========================
     # LER ARQUIVOS BRUTOS
     # =========================
+    
     print("\nLendo arquivos brutos...")
 
     df_transporte = pd.read_csv(
@@ -66,11 +67,12 @@ def main():
         sep=";"
     )
 
----
+
     
     # =========================
     # TRATAMENTO TRANSPORTE
     # =========================
+    
     print("\nTratando base de transporte...")
 
     df_transporte.columns = df_transporte.columns.str.strip()
@@ -90,11 +92,12 @@ def main():
     df_transporte["TIPO_BASE"] = "TRANSPORTE"
 
 
----
+
     
     # =========================
     # TRATAMENTO GERADOR
     # =========================
+    
     print("Tratando base de gerador...")
 
     df_gerador.columns = df_gerador.columns.str.strip()
@@ -112,11 +115,12 @@ def main():
     df_gerador["TIPO_BASE"] = "GERADOR"
 
 
----
+
     
     # =========================
     # TRATAMENTO DESTINADOR
     # =========================
+    
     print("Tratando base de destinador...")
 
     df_destinador.columns = df_destinador.columns.str.strip()
@@ -137,11 +141,12 @@ def main():
     df_destinador["TIPO_BASE"] = "DESTINADOR"
 
 
----
+
     
     # =========================
     # TRATAMENTO TRANSPORTADOR
     # =========================
+    
     print("Tratando base de transportador...")
 
     df_transportador.columns = df_transportador.columns.str.strip()
@@ -154,11 +159,12 @@ def main():
     df_transportador["TIPO_BASE"] = "TRANSPORTADOR"
 
 
----
+
     
     # =========================
     # SALVAR BASES TRATADAS
     # =========================
+    
     print("Salvando bases tratadas...")
 
     df_transporte.to_csv(pasta_dados_tratados / "transporte_tratado.csv", index=False, sep=";")
@@ -166,11 +172,12 @@ def main():
     df_destinador.to_csv(pasta_dados_tratados / "destinador_tratado.csv", index=False, sep=";")
     df_transportador.to_csv(pasta_dados_tratados / "transportador_tratado.csv", index=False, sep=";")
 
----
-    
+
+ 
     # =========================
     # PADRONIZAR PARA BASE ÚNICA
     # =========================
+    
     print("Montando base analítica unificada...")
 
     base_transporte = pd.DataFrame({
@@ -257,11 +264,12 @@ def main():
         "SITUACAO_CADASTRAL": df_transportador["Situação Cadastral"]
     })
 
----
+
     
     # =========================
     # UNIFICAR
     # =========================
+    
     base_unificada = pd.concat(
         [base_transporte, base_gerador, base_destinador, base_transportador],
         ignore_index=True,
