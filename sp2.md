@@ -14,21 +14,17 @@
 ---
 
 ## 📝 Descrição da Solução
+  
+- **Funcionalidades principais incluídas**  
+  O SafeFlow apresenta um dashboard interativo desenvolvido em Power BI, integrado a bases públicas do IBAMA relacionadas ao transporte de cargas perigosas e resíduos sólidos. A solução contempla análises sobre principais cargas movimentadas, modais de transporte, origens e destinos (OD), cidades com maior movimentação, distribuição regional e indicadores logísticos relevantes.  
+   
+  Os dados passam por processos de limpeza, padronização, tratamento e unificação em Python, permitindo gerar uma base analítica estruturada para visualização e cruzamento das informações no dashboard.
 
-- **Funcionalidades principais incluídas**
-  - Análise dos principais modais utilizados  
-  - Identificação dos principais meios de transporte  
-  - Visualização das principais rodovias utilizadas  
-  - Identificação de cidades responsáveis pelo transporte de cargas  
-  - Expansão dos filtros e cruzamento de dados  
+- **Limitações conhecidas**  
+  O sistema ainda possui limitações relacionadas à qualidade e completude de algumas bases públicas disponibilizadas pelo IBAMA, o que pode impactar determinadas análises. Além disso, alguns filtros avançados e análises mais específicas ainda estão em processo de desenvolvimento, limitando parte do aprofundamento analítico nesta versão do MVP.
 
-- **Limitações conhecidas**
-  - Algumas bases ainda possuem informações incompletas relacionadas às rodovias e modelos de veículos.  
-  - O sistema ainda apresenta limitações em filtros extremamente específicos.
-
-- **Escopo reduzido**
-  - O foco da Sprint 2 está na ampliação da análise logística do dashboard, adicionando novos indicadores e refinando a visualização das informações já existentes.
-
+- **Escopo reduzido**  
+  O escopo atual do MVP está concentrado no desenvolvimento de uma solução funcional voltada à análise logística do transporte de cargas perigosas. Nesta etapa, o foco está na construção dos principais indicadores visuais, estruturação da base unificada de dados, identificação de padrões logísticos e disponibilização de informações estratégicas em uma interface interativa e intuitiva.
 ---
 
 ## 👥 Personas / Usuários-Alvo
