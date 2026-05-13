@@ -3,13 +3,13 @@
 ## 🎯 Objetivo do MVP
 
 - **Qual problema resolve?**  
-  A Sprint 2 tem como objetivo aprofundar a análise logística do transporte de cargas perigosas, permitindo identificar os principais modais, meios de transporte, rodovias e cidades envolvidas na movimentação das cargas.
+  O MVP tem como objetivo aprofundar a análise logística do transporte de cargas perigosas, permitindo identificar os principais modais, meios de transporte, rodovias e cidades envolvidas na movimentação das cargas. Atualmente, muitas dessas informações encontram-se dispersas em bases públicas extensas e pouco intuitivas, dificultando análises rápidas e estratégicas. O dashboard busca centralizar essas informações em uma interface visual clara, organizada e de fácil interpretação.
 
 - **Qual hipótese será validada?**  
-  A ampliação das análises logísticas no dashboard possibilitará uma compreensão mais detalhada das rotas utilizadas e dos padrões de transporte, auxiliando processos de fiscalização e tomada de decisão.
+  A ampliação das análises logísticas no dashboard possibilitará uma compreensão mais detalhada das rotas utilizadas, dos padrões de transporte e da distribuição das cargas perigosas no território nacional. A hipótese validada é que a centralização e visualização inteligente desses dados auxiliam processos de fiscalização, monitoramento e tomada de decisão logística, reduzindo o esforço manual necessário para análise.
 
 - **Qual valor será entregue ao usuário final?**  
-  Disponibilização de novos indicadores logísticos e filtros analíticos que permitam visualizar os principais meios de transporte, modais utilizados e regiões com maior movimentação de cargas perigosas.
+  Entregará novos indicadores logísticos e filtros analíticos capazes de apresentar informações sobre os principais modais utilizados, meios de transporte, rodovias mais recorrentes e cidades envolvidas no transporte de cargas perigosas. O usuário terá acesso a uma análise mais aprofundada e estratégica dos dados, permitindo identificar padrões operacionais, regiões críticas e tendências logísticas de maneira visual, intuitiva e centralizada.
 
 ---
 
