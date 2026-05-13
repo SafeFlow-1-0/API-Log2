@@ -96,7 +96,7 @@ O objetivo é desenvolver um painel interativo que permita:
 |--------|----------|--------|----------|
 | Vídeo | 29/03/2026 | Finalizado | [Assistir](https://www.youtube.com/watch?v=m59A55OO_z8) |
 | 01 | 29/04/2026 | Finalizado | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp1.md) |
-| 02 | 20/05/2026 | A fazer | --- |
+| 02 | 27/05/2026 | A fazer | --- |
 | 03 | --- | A fazer | --- |
 | Feira de Soluções | --- | A fazer | --- |
 
