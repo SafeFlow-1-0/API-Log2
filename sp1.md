@@ -16,15 +16,13 @@
 ## 📝 Descrição da Solução
   
 - **Funcionalidades principais incluídas**  
-  O SafeFlow apresenta um dashboard interativo desenvolvido em Power BI, integrado a bases públicas do IBAMA relacionadas ao transporte de cargas perigosas e resíduos sólidos. A solução contempla análises sobre principais cargas movimentadas, modais de transporte, origens e destinos (OD), cidades com maior movimentação, distribuição regional e indicadores logísticos relevantes.  
-   
-  Os dados passam por processos de limpeza, padronização, tratamento e unificação em Python, permitindo gerar uma base analítica estruturada para visualização e cruzamento das informações no dashboard.
+ O Safe Flow apresenta uma página inicial com gráficos e indicadores claros sobre o transporte de cargas perigosas, incluindo volumes, regiões e relações de origem-destino.
 
 - **Limitações conhecidas**  
-  O sistema ainda possui limitações relacionadas à qualidade e completude de algumas bases públicas disponibilizadas pelo IBAMA, o que pode impactar determinadas análises. Além disso, alguns filtros avançados e análises mais específicas ainda estão em processo de desenvolvimento, limitando parte do aprofundamento analítico nesta versão do MVP.
-
+  O sistema ainda possui limitações relacionadas à aplicação de filtros mais específicos e refinados, o que pode restringir análises mais aprofundadas das informações.
+  
 - **Escopo reduzido**  
-  O escopo atual do MVP está concentrado no desenvolvimento de uma solução funcional voltada à análise logística do transporte de cargas perigosas. Nesta etapa, o foco está na construção dos principais indicadores visuais, estruturação da base unificada de dados, identificação de padrões logísticos e disponibilização de informações estratégicas em uma interface interativa e intuitiva.
+  O escopo do MVP está concentrado no desenvolvimento da página inicial de um dashboard interativo, contemplando apenas as informações essenciais necessárias para validação da proposta e do valor do projeto.
 ---
 
 ## 👥 Personas / Usuários-Alvo
