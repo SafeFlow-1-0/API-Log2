@@ -3,50 +3,55 @@
 ## 🎯 Objetivo do MVP
 
 - **Qual problema resolve?**  
-O MVP tem como objetivo tornar os dados referentes ao transporte de cargas perigosas mais acessíveis e compreensíveis, por meio de visualizações interativas e intuitivas, facilitando análises logísticas e estratégicas.
+  A Sprint 2 tem como objetivo aprofundar a análise logística do transporte de cargas perigosas, permitindo identificar os principais modais, meios de transporte, rodovias e cidades envolvidas na movimentação das cargas.
 
 - **Qual hipótese será validada?**  
-A organização e visualização dos dados públicos do IBAMA em um dashboard interativo possibilitam identificar padrões de movimentação, principais modais, origens e destinos, contribuindo para análises mais eficientes e assertivas.
+  A ampliação das análises logísticas no dashboard possibilitará uma compreensão mais detalhada das rotas utilizadas e dos padrões de transporte, auxiliando processos de fiscalização e tomada de decisão.
 
 - **Qual valor será entregue ao usuário final?**  
-Disponibilização de um dashboard em Power BI com indicadores logísticos relacionados ao transporte de cargas perigosas, permitindo melhor interpretação dos dados e apoio à tomada de decisão.
+  Disponibilização de novos indicadores logísticos e filtros analíticos que permitam visualizar os principais meios de transporte, modais utilizados e regiões com maior movimentação de cargas perigosas.
 
 ---
 
 ## 📝 Descrição da Solução
 
 - **Funcionalidades principais incluídas**
-  - Dashboard interativo em Power BI  
-  - Visualização das principais cargas movimentadas  
-  - Identificação das principais origens e destinos  
-  - Indicadores logísticos e gráficos analíticos  
-  - Tratamento e unificação das bases do IBAMA em Python  
+  - Análise dos principais modais utilizados  
+  - Identificação dos principais meios de transporte  
+  - Visualização das principais rodovias utilizadas  
+  - Identificação de cidades responsáveis pelo transporte de cargas  
+  - Expansão dos filtros e cruzamento de dados  
 
 - **Limitações conhecidas**
-  - O sistema ainda possui limitações relacionadas a filtros avançados e análises mais específicas.  
-  - Algumas informações dependem diretamente da qualidade e completude das bases públicas utilizadas.
+  - Algumas bases ainda possuem informações incompletas relacionadas às rodovias e modelos de veículos.  
+  - O sistema ainda apresenta limitações em filtros extremamente específicos.
 
 - **Escopo reduzido**
-  - O MVP está focado na construção da primeira versão funcional do dashboard, contendo apenas os principais indicadores necessários para validar a proposta do projeto.
+  - O foco da Sprint 2 está na ampliação da análise logística do dashboard, adicionando novos indicadores e refinando a visualização das informações já existentes.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
 
-- **Analista do IPEM:**  
-Profissional responsável pela análise de dados relacionados ao transporte de cargas perigosas. Necessita de informações centralizadas, organizadas e visualmente claras para apoiar decisões estratégicas e operacionais.
+<p align="justify">
+<strong>Analista do IPEM:</strong> Responsável pela análise estratégica dos dados logísticos relacionados ao transporte de cargas perigosas. Necessita identificar padrões de movimentação, principais modais e regiões com maior fluxo de transporte.
+</p>
 
-- **Fiscal do IPEM:**  
-Responsável pela fiscalização e acompanhamento do fluxo de cargas perigosas. Necessita identificar regiões críticas, principais rotas e movimentações relevantes para direcionar ações de fiscalização.
+<p align="justify">
+<strong>Fiscal do IPEM:</strong> Responsável pela fiscalização do transporte de cargas perigosas. Necessita identificar rodovias críticas, regiões de maior circulação e principais rotas utilizadas para direcionamento das ações de fiscalização.
+</p>
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 
-| ID  | User Story | Prioridade | Estimativa |
-|-----|------------|------------|------------|
-| US1 | Como analista do IPEM, quero visualizar as principais cargas movimentadas para apoiar decisões logísticas e estratégicas. | Alta | 8 pontos |
-| US2 | Como fiscal do IPEM, quero identificar as principais origens e destinos das cargas para visualizar áreas de maior risco. | Média | 13 pontos |
+| Rank | Prioridade | Pergunta | User Story | Estimativa |
+|------|------------|----------|------------|------------|
+| 4 | Alta | Quais os principais modais utilizados? | Como analista, quero visualizar os principais modais utilizados para otimizar a análise logística | 8 |
+| 5 | Baixa | Quais modelos de caminhões mais utilizados? | Como analista, quero identificar os modelos de caminhões mais utilizados para entender a operação logística | 4 |
+| 6 | Baixa | Quais os principais meios de transporte utilizados? | Como analista, quero analisar os principais meios de transporte utilizados para melhor compreensão logística | 5 |
+| 8 | Média | Quais as principais rodovias utilizadas? | Como analista, quero identificar as principais rodovias utilizadas para avaliar rotas logísticas | 8 |
+| 10 | Baixa | Quais cidades fazem o transporte de carga? | Como analista, quero identificar as cidades responsáveis pelo transporte de cargas para entender a origem logística | 4 |
 
 ---
 
@@ -54,20 +59,20 @@ Responsável pela fiscalização e acompanhamento do fluxo de cargas perigosas. 
 
 | Sprint | Entregas Principais | Status |
 |--------|--------------------|--------|
-| 01 | Coleta e unificação dos dados do IBAMA | Concluído |
-| 01 | Limpeza e tratamento dos dados em Python | Concluído |
-| 01 | Desenvolvimento do dashboard inicial | Concluído |
-| 01 | Implementação dos gráficos principais | Concluído |
-| 01 | Organização das principais origens e destinos | Concluído |
+| 02 | Implementação de análise por modais de transporte | Em andamento |
+| 02 | Identificação dos principais meios de transporte | Em andamento |
+| 02 | Análise das principais rodovias utilizadas | Em andamento |
+| 02 | Identificação das cidades responsáveis pelo transporte de cargas | Em andamento |
+| 02 | Expansão dos filtros e refinamento das análises | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
 
-- O MVP deve permitir ao usuário visualizar os dados de forma centralizada em uma interface interativa.  
-- O sistema deve apresentar informações sobre cargas, rotas, origens, destinos e distribuição logística.  
-- O dashboard deve possuir navegação intuitiva, gráficos claros e informações confiáveis.  
-- Métricas coletadas: tempo de resposta adequado, organização visual e facilidade de interpretação dos dados.
+- O dashboard deve permitir visualizar os principais modais e meios de transporte utilizados.  
+- O sistema deve apresentar análises relacionadas às rodovias e cidades envolvidas na movimentação das cargas.  
+- O usuário deve conseguir realizar cruzamentos de informações logísticas de maneira intuitiva.  
+- O dashboard deve manter navegação clara, organizada e responsiva.
 
 ---
 
@@ -80,18 +85,19 @@ Responsável pela fiscalização e acompanhamento do fluxo de cargas perigosas. 
   - Registro do feedback: em andamento.
 
 - Indicadores de negócio
-  - Facilidade de análise dos dados.
-  - Redução do esforço manual para interpretação das informações.
+  - Facilidade na identificação de padrões logísticos.
+  - Redução do esforço manual para análise de rotas e modais.
 
 ---
 
 ## 🚀 Próximos Passos
 
+- Expansão das análises regionais  
+- Inclusão de indicadores de segurança no transporte  
 - Implementação de filtros avançados  
-- Expansão das análises por modal e rodovias  
-- Melhorias visuais e de usabilidade  
-- Inclusão de novos indicadores logísticos  
-- Expansão das funcionalidades para as próximas sprints  
+- Refinamento visual do dashboard  
+- Integração de novas bases de dados  
+
 ---
 
 ## 📂 Anexos / Evidências
