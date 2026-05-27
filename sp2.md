@@ -52,7 +52,7 @@
 | 6 | Alta | Quais os principais modais utilizados? | Como analista, quero visualizar os principais modais utilizados para otimizar a análise logística | 8 |
 | 7 | Baixa | Quais os principais meios de transporte utilizados? | Como analista, quero analisar os principais meios de transporte utilizados para melhor compreensão logística | 5 |
 | 8 | Média | Quais as principais rodovias utilizadas? | Como analista, quero identificar as principais rodovias utilizadas para avaliar rotas logísticas | 8 |
-| 10 | Baixa | Quais cidades fazem o transporte de carga? | Como analista, quero identificar as cidades responsáveis pelo transporte de cargas para entender a origem logística | 4 |
+| 9 | Baixa | Quais cidades fazem o transporte de carga? | Como analista, quero identificar as cidades responsáveis pelo transporte de cargas para entender a origem logística | 4 |
 
 ---
 
