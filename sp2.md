@@ -60,11 +60,11 @@
 
 | Sprint | Entregas Principais | Status |
 |--------|--------------------|--------|
-| 02 | Implementação de análise por modais de transporte | Em andamento |
-| 02 | Identificação dos principais meios de transporte | Em andamento |
-| 02 | Análise das principais rodovias utilizadas | Em andamento |
-| 02 | Identificação das cidades responsáveis pelo transporte de cargas | Em andamento |
-| 02 | Expansão dos filtros e refinamento das análises | Em andamento |
+| 02 | Implementação de análise por modais de transporte | Concluído |
+| 02 | Identificação dos principais meios de transporte | Concluído |
+| 02 | Análise das principais rodovias utilizadas | Concluído |
+| 02 | Identificação das cidades responsáveis pelo transporte de cargas | Concluído |
+| 02 | Expansão dos filtros e refinamento das análises | Concluído |
 
 ---
 
