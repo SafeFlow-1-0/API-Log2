@@ -3,13 +3,15 @@
 ## 🎯 Objetivo do MVP
 
 - **Qual problema resolve?**  
-  O MVP tem como objetivo aprofundar a análise logística do transporte de cargas perigosas, permitindo identificar os principais modais, meios de transporte, rodovias e cidades envolvidas na movimentação das cargas.O dashboard busca centralizar essas informações em uma interface visual clara, organizada e de fácil interpretação.
+  O MVP tem como objetivo aprofundar a análise logística do transporte de cargas perigosas, permitindo identificar os principais modais, meios de transporte, rodovias e cidades envolvidas na movimentação das cargas.
+  O dashboard busca centralizar essas informações em uma interface visual clara, organizada e de fácil interpretação.
 
 - **Qual hipótese será validada?**  
   A ampliação das análises logísticas no dashboard possibilitará uma compreensão mais detalhada das rotas utilizadas, dos padrões de transporte e da distribuição das cargas perigosas no território nacional. 
 
 - **Qual valor será entregue ao usuário final?**  
-  Entregará novos indicadores logísticos e filtros analíticos capazes de apresentar informações sobre os principais modais utilizados, meios de transporte, rodovias mais recorrentes e cidades envolvidas no transporte de cargas perigosas. O usuário terá acesso a uma análise mais aprofundada e estratégica dos dados, permitindo identificar padrões operacionais, regiões críticas e tendências logísticas de maneira visual, intuitiva e centralizada.
+  Entregará novos indicadores logísticos e filtros analíticos capazes de apresentar informações sobre os principais modais utilizados, meios de transporte, rodovias mais recorrentes e cidades envolvidas no transporte de cargas perigosas.
+  O usuário terá acesso a uma análise mais aprofundada e estratégica dos dados, permitindo identificar padrões operacionais, regiões críticas e tendências logísticas de maneira visual, intuitiva e centralizada.
 
 ---
 
