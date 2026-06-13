@@ -1,4 +1,4 @@
-# 📌 MVP - SafeFlow | Sprint 3
+# 📌 MVP - SafeFlow
 
 ## 🎯 Objetivo do MVP
 
@@ -29,18 +29,6 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-
-<p align="justify">
-<strong>Jean Costa:</strong> Professor e orientador acadêmico do projeto, responsável por acompanhar e avaliar o desenvolvimento da plataforma de Business Intelligence voltada ao fluxo de cargas especiais e perigosas. Atua na validação metodológica, garantindo que o projeto esteja alinhado às práticas ágeis, à qualidade da documentação e à aplicação correta dos conceitos logísticos e de análise de dados.
-</p>
-
-<p align="justify">
-<strong>Marcus Nascimento:</strong> Cliente do projeto, atuando como principal elo entre a necessidade real e o desenvolvimento da solução. Responsável por validar os dados, orientar os requisitos práticos e garantir que a plataforma atenda às demandas de análise e fiscalização do fluxo de cargas perigosas.
-</p>
-
-<p align="justify">
-<strong>IPEM (Instituto de Pesos e Medidas):</strong> Órgão público cliente institucional do projeto, responsável pela fiscalização, controle e análise de dados relacionados à movimentação de cargas perigosas. Atua como principal beneficiário da solução, utilizando a plataforma para apoiar decisões estratégicas e otimizar processos de fiscalização.
-</p>
 
 ---
 
