@@ -1,10 +1,13 @@
 # 📌 MVP - [Nome do Projeto]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+## 📌 MVP - SafeFlow | Sprint 3
+🎯 Objetivo do MVP
+Qual problema resolve?
+A Sprint 3 tem como objetivo aprofundar a análise estratégica do transporte de cargas perigosas, permitindo identificar as principais empresas movimentadoras, analisar a evolução da movimentação ao longo do tempo e compreender o comportamento das operações em diferentes regiões. Atualmente, essas informações encontram-se dispersas em bases extensas, dificultando a identificação de tendências, desempenho empresarial e padrões de segurança.
+Qual hipótese será validada?
+A disponibilização de indicadores temporais e empresariais em um dashboard interativo permitirá identificar tendências de movimentação, destacar as principais empresas atuantes no setor e fornecer informações relevantes para apoiar processos de fiscalização, monitoramento e tomada de decisão.
+Qual valor será entregue ao usuário final?
+O usuário terá acesso a análises temporais e empresariais capazes de demonstrar a evolução da movimentação das cargas perigosas ao longo dos anos, identificar as empresas com maior participação nas operações, visualizar a atuação regional dos transportadores e apoiar avaliações relacionadas à segurança e eficiência das operações logísticas.
 
 ---
 
