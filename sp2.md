@@ -101,7 +101,10 @@
 
 ---
 
+
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+- Prints de tela
+- Fluxos ou protótipos
+- Vídeo (MVP)
+- 📄 Script Python: [`tratamento_dados.py`](./tratamento_dados.py)
