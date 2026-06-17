@@ -104,7 +104,8 @@
 
 ## 📂 Anexos / Evidências
 
-- Prints de tela
+- 🔗 **Acessar vídeo:**  
+https://youtu.be/ItFroCuOWO4?is=HUOq8yM83l_9Caxc
 - Fluxos ou protótipos
 - Vídeo (MVP)
 - 📄 Script Python: [`tratamento_dados.py`](./tratamento_dados.py)
