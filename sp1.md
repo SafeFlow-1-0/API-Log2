@@ -98,7 +98,7 @@
 
 ## 📂 Anexos / Evidências
 
-- Prints do dashboard  
+- link de acesso ao vídeo ( https://youtu.be/6Mplc_c_m8g?is=-yDcDQ6g4An5ksa-)
 - Fluxos ou protótipos  
 - - 📄 Script de tratamento de dados: [`tratamento_dados.py`](./tratamento_dados.py)
 
