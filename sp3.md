@@ -57,11 +57,11 @@
 
 | Sprint | Entregas Principais | Status |
 |--------|--------------------|--------|
-| 03 | Implementação da análise temporal da movimentação de cargas | Em andamento |
-| 03 | Identificação das principais empresas movimentadoras | Em andamento |
-| 03 | Análise regional das operações no Vale do Paraíba | Em andamento |
-| 03 | Desenvolvimento de indicadores empresariais | Em andamento |
-| 03 | Implementação de análises relacionadas à segurança operacional | Em andamento |
+| 03 | Implementação da análise temporal da movimentação de cargas |  Concluído |
+| 03 | Identificação das principais empresas movimentadoras |  Concluído |
+| 03 | Análise regional das operações no Vale do Paraíba |  Concluído |
+| 03 | Desenvolvimento de indicadores empresariais |  Concluído |
+| 03 | Implementação de análises relacionadas à segurança operacional | Concluído |
 
 ---
 
