@@ -98,4 +98,4 @@ O objetivo é desenvolver um painel interativo que permita:
 | 01 | 29/04/2026 | Finalizado | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp1.md) |
 | 02 | 27/05/2026 | Finalizado | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp2.md) |
 | 03 | 17/06/2026 | Finalizado | [MVP]( https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp3.md) |        
-| Feira de Soluções | --- | A fazer | --- |
+| Feira de Soluções | 25/06/2026 | Finalizado | --- |
